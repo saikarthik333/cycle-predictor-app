@@ -21,9 +21,3 @@ You can access the live, running application here:
 - **Frontend:** Streamlit
 - **Containerization:** Docker
 - **Deployment:** AWS EC2
-
-Click "Commit changes".
-
-Your GitHub repository is now complete. The link to your repository is what you can share on your resume or with recruiters. When they visit, they will immediately see a professional description and a direct link to your live, working project.
-
-Your final GitHub link is: https://github.com/saikarthik333/cycle-predictor-app
