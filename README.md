@@ -1,5 +1,5 @@
  
-# 🧠 Intelligent Cycle Prediction Engine
+# 🧠 Intelligent Cycle Prediction App
 
 A machine learning application built with Python and Streamlit to predict menstrual cycle lengths based on a user's health profile. This project is containerized with Docker and deployed on an AWS EC2 instance.
 
